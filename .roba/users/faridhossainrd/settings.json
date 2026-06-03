@@ -1,0 +1,6 @@
+{
+  "model": "serv/claude-sonnet-4.6",
+  "superAgentModel": "",
+  "projectRoot": "/home/farid/mojoco/robacreatorhub_server2/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-20260603-212551-1780500426",
+  "superAgentEnabled": false
+}
